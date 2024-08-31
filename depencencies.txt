@@ -1,0 +1,7 @@
+requests
+uuid
+colorama
+datetime
+pystyle
+websocket-client
+py_mini_racer

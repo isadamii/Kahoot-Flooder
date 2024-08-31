@@ -8,7 +8,7 @@ try:
     import pystyle
     import websocket
     import py_mini_racer
-except ModuleNotFoundError:
+except ModuleNotFoundError: # These might fuck up linux installations :O
     os.system("pip install requests")
     os.system("pip install uuid")
     os.system("pip install datetime")
